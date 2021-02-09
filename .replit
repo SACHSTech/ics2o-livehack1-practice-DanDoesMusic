@@ -1,1 +1,3 @@
 language = "python3"
+
+run = "python minutes_days.py"
